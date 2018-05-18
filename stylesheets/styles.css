@@ -1,0 +1,20 @@
+
+body {
+  background-color: #F2F3F4;
+}
+.e-groceries, .final-proyect {
+  background-color: #C9D2DB;
+}
+section {
+  padding: 200px 0px;
+}
+
+.img-left img {
+  max-height: 200px;
+}
+.wellness, .final-proyect {
+  padding: 120px 0;
+}
+.col-12 col-md-6 order-1 order-md-2 {
+  margin-left: -20px;
+}
